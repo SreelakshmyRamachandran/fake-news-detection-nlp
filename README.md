@@ -1,4 +1,4 @@
-# fake-news-detection-nlp
+Fake news detection using NLP
 
 # Overview
 
